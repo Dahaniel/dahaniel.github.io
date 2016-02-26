@@ -1,0 +1,39 @@
+# Site settings
+title: Daniel Münch
+description: 'Neuroscientist'
+url: 'http://muench.bio'
+baseurl: '/'
+google_analytics: 'UA-12714453-10'
+disqus_shortname: 'danielmuench'
+
+author:
+  name: 'Daniel Münch'
+  email: daniel@muench.bio
+  twitter_username: dahaniel
+#  facebook_username: DahanielDahanielDahanielDahanielDahanielDahaniel
+  github_username:  dahaniel
+  linkedin_username:  danielmuench
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:month/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

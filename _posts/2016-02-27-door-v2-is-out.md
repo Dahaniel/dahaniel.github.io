@@ -5,11 +5,10 @@ published: true
 author: Dahaniel
 comments: true
 date: 2016-02-25 09:02:40
-tags: DoOR, Drosophila, ensemble code, database, pubications
+tags: DoOR, Drosophila, ensemble code, database, publcations
 categories: research
 permalink: /2014/02/door_v2
 ---
-
 Great news for the DoOR project, the paper on our comprehensive update of the _Database of Odorant Responses_ was [published in _Scientific Reports_](http://www.nature.com/articles/srep21841) a few days ago [^1]. With the paper being published I also finally set the versions of [DoOR.functions](https://github.com/Dahaniel/DoOR.functions) and [DoOR.data](https://github.com/Dahaniel/DoOR.data) 2.0 and created releases on [GitHub](https://github.com/Dahaniel/DoOR.functions/releases) and [Zenodo](http://dx.doi.org/10.5281/zenodo.46555). The updated web page for quick queries is available at [http://neuro.uni.kn](http://neuro.uni.kn).
 
 The database now holds responses for 7381 different odorant-receptor combinations. In total we added 15 new data sets from 11 studies adding 467 new odorants summing up to a total of 2894 new responses to DoOR. The Raw data used for calculating the consensus database consists of 11337 individual data points. Running the merging process (i.e. trying all 7,714,976 possible combinations of pairwise study merges; see paper for details) with 100 jobs in parallel on a cluster took more than a week.

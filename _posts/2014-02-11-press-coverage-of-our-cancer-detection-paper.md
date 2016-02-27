@@ -43,19 +43,19 @@ Our paper about using the _Drosophila_ antenna as a sensor to differentiate canc
 
 _Thanks to [Martin][22] for this list!_
 
-  * Turkish: [http://www.gercekbilim.com][23]{.moz-txt-link-freetext}
-  * Russian: [http://www.vesti.ru][24]{.moz-txt-link-freetext}
-  * Japanese (**incl. comic!!**): [http://researchmap.jp][25]{.moz-txt-link-freetext}
-  * Dutch: [http://www.kijkmagazine.nl][26]{.moz-txt-link-freetext}
-  * Italian: [http://www.articolotre.com][27]{.moz-txt-link-freetext}
-  * Spanish: [http://www.medciencia.com][28]{.moz-txt-link-freetext}
-  * French: [http://www.sciencepresse.qc.ca][29]{.moz-txt-link-freetext}
-  * Polish: [http://biotechnologia.pl][30]{.moz-txt-link-freetext}
-  * Lithuanian: [http://www.delfi.lt][31]{.moz-txt-link-freetext}
-  * Thai: [http://www.vcharkarn.com][32]{.moz-txt-link-freetext}
-  * Hebrew: [http://www.medicalmedia.co.il][33]{.moz-txt-link-freetext}
-  * Chinese: [http://tw.news.yahoo.com][34]{.moz-txt-link-freetext}
-
+  * Turkish: [http://www.gercekbilim.com][23]
+  * Russian: [http://www.vesti.ru][24]
+  * Japanese (**incl. comic!!**): [http://researchmap.jp][25]
+  * Dutch: [http://www.kijkmagazine.nl][26]
+  * Italian: [http://www.articolotre.com][27]
+  * Spanish: [http://www.medciencia.com][28]
+  * French: [http://www.sciencepresse.qc.ca][29]
+  * Polish: [http://biotechnologia.pl][30]
+  * Lithuanian: [http://www.delfi.lt][31]
+  * Thai: [http://www.vcharkarn.com][32]
+  * Hebrew: [http://www.medicalmedia.co.il][33]
+  * Chinese: [http://tw.news.yahoo.com][34]
+  
 ### Weird & wrong reports
 
   * [http://www.bunte.de][35]

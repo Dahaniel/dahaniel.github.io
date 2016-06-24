@@ -17,14 +17,14 @@ permalink: /publications
 
 Silbering, A.F., Bell, R., **Münch, D.**, Cruchet, S., Gomez-Diaz, C., Laudes, T., Galizia, C.G., Benton, R., 2016. *Ir40a neurons are not DEET detectors.* Nature 534, E5–E7. doi:10.1038/nature18321
 
-[FULL TEXT](dx.doi.org/10.1038/nature18321)
+[FULL TEXT](http://dx.doi.org/10.1038/nature18321)
 
 
 <div data-badge-type="donut" data-doi="10.1038/srep21841" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 **Münch, D.**, Galizia, C.G., 2016. *DoOR 2.0 - Comprehensive Mapping of Drosophila melanogaster Odorant Responses.* Scientific Reports 6, 21841. doi:10.1038/srep21841
 
-[FULL TEXT](dx.doi.org/10.1038/srep21841)
+[FULL TEXT](http://dx.doi.org/10.1038/srep21841)
 
 ### 2014
 
@@ -32,7 +32,7 @@ Silbering, A.F., Bell, R., **Münch, D.**, Cruchet, S., Gomez-Diaz, C., Laudes, 
 
 Strauch, M.\*, Lüdke, A.\*, **Münch, D.**\*, Laudes, T., Galizia, C.G., Martinelli, E., Lavra, L., Paolesse, R., Ulivieri, A., Catini, A., Capuano, R., Di Natale, C., 2014. *More than apples and oranges &#8211; Detecting cancer with a fruit fly’s antenna.* Scientific Reports 4. doi:10.1038/srep03576 (\* shared first authorship)
 
-[FULL TEXT](dx.doi.org/10.1038/srep03576) |
+[FULL TEXT](http://dx.doi.org/10.1038/srep03576) |
 [CITATIONS](http://scholar.google.de/scholar?cites=6668494534717916667) |
 [MEDIA REPORTS]({% post_url 2014-02-11-press-coverage-of-our-cancer-detection-paper %})
 

@@ -13,11 +13,18 @@ permalink: /publications
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 ### 2016
+<div data-badge-type="donut" data-doi="10.1038/nature18321" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+Silbering, A.F., Bell, R., **Münch, D.**, Cruchet, S., Gomez-Diaz, C., Laudes, T., Galizia, C.G., Benton, R., 2016. *Ir40a neurons are not DEET detectors.* Nature 534, E5–E7. doi:10.1038/nature18321
+
+[FULL TEXT](dx.doi.org/10.1038/nature18321)
+
+
 <div data-badge-type="donut" data-doi="10.1038/srep21841" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 **Münch, D.**, Galizia, C.G., 2016. *DoOR 2.0 - Comprehensive Mapping of Drosophila melanogaster Odorant Responses.* Scientific Reports 6, 21841. doi:10.1038/srep21841
 
-[FULL TEXT](http://www.nature.com/articles/srep21841)
+[FULL TEXT](dx.doi.org/10.1038/srep21841)
 
 ### 2014
 
@@ -25,7 +32,7 @@ permalink: /publications
 
 Strauch, M.\*, Lüdke, A.\*, **Münch, D.**\*, Laudes, T., Galizia, C.G., Martinelli, E., Lavra, L., Paolesse, R., Ulivieri, A., Catini, A., Capuano, R., Di Natale, C., 2014. *More than apples and oranges &#8211; Detecting cancer with a fruit fly’s antenna.* Scientific Reports 4. doi:10.1038/srep03576 (\* shared first authorship)
 
-[FULL TEXT](http://www.nature.com/srep/2014/140106/srep03576/full/srep03576.html) |
+[FULL TEXT](dx.doi.org/10.1038/srep03576) |
 [CITATIONS](http://scholar.google.de/scholar?cites=6668494534717916667) |
 [MEDIA REPORTS]({% post_url 2014-02-11-press-coverage-of-our-cancer-detection-paper %})
 
@@ -34,7 +41,7 @@ Strauch, M.\*, Lüdke, A.\*, **Münch, D.**\*, Laudes, T., Galizia, C.G., Martin
 
 Strauch, M., Müthing, C., Broeg, M.P., Szyszka, P., **Münch, D.**, Laudes, T., Deussen, O., Galizia, C.G., Merhof, D., 2013. *The looks of an odour &#8211; Visualising neural odour response patterns in real time.* BMC Bioinformatics 14, S6. doi:10.1186/1471-2105-14-S19-S6
 
-[FULL TEXT](http://www.biomedcentral.com/1471-2105/14/S19/S6%20) |
+[FULL TEXT](http://dx.doi.org/10.1186/1471/2105/14/S19/S6) |
 [CITATIONS](http://scholar.google.de/scholar?cites=1133526968462693019)
 
 
@@ -42,7 +49,7 @@ Strauch, M., Müthing, C., Broeg, M.P., Szyszka, P., **Münch, D.**, Laudes, T.,
 
 **Münch, D.**, Schmeichel, B., Silbering, A.F., Galizia, C.G., 2013. *Weaker Ligands Can Dominate an Odor Blend due to Syntopic Interactions.* Chemical senses. doi:10.1093/chemse/bjs138
 
-[FULL TEXT](http://chemse.oxfordjournals.org/content/38/4/293) |
+[FULL TEXT](http://dx.doi.org/10.1093/chemse/bjs138) |
 [CITATIONS](http://scholar.google.de/scholar?cites=4064783826768313177)
 
 ### 2010
@@ -50,7 +57,7 @@ Strauch, M., Müthing, C., Broeg, M.P., Szyszka, P., **Münch, D.**, Laudes, T.,
 
 Galizia, C.G., **Münch, D.**, Strauch, M., Nissler, A., Ma, S., 2010. *Integrating heterogeneous odor response data into a common response model: A DoOR to the complete olfactome.* Chemical senses 35, 551–63. doi:10.1093/chemse/bjq042
 
-[FULL TEXT](http://chemse.oxfordjournals.org/content/35/7/551) |
+[FULL TEXT](http://dx.doi.org/10.1093/chemse/bjq042) |
 [CITATIONS](http://scholar.google.de/scholar?cites=16970919184143472683)
 
 ### Other Publications & Links

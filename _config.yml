@@ -27,13 +27,17 @@ destination: _site
 paginate: 10
 permalink: /:year/:month/:title/
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments.rb
 
-kramdown:
-  # use Github Flavored Markdown
-  input: GFM
-  # do not replace newlines by <br>s
-  hard_wrap: false
+
+# kramdown:
+#   extensions:
+#     - footnotes
+#     - hard_wrap
+#     - no_intra_emphasis
+#     - autolink
+#     - strikethrough
 
 gems: ['jekyll-paginate']
+# gem: 'pygments.rb'
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

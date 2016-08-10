@@ -5,6 +5,7 @@ url: 'http://muench.bio'
 baseurl: '/'
 google_analytics: 'UA-12714453-10'
 disqus_shortname: 'danielmuench'
+timezone: Europe/Berlin
 
 author:
   name: 'Daniel Münch'

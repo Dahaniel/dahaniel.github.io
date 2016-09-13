@@ -17,7 +17,7 @@ permalink: /publications
 
 Zwaka, H., **Münch, D.**, Manz, G., Menzel, R., Rybak, J., 2016. *The circuitry of olfactory projection neurons in the brain of the honeybee, Apis mellifera*. Front. Neuroanat. 10, 90. doi:10.3389/fnana.2016.00090
 
-[FULL TEXT](http://dx.doi.org/10.3389/fnana.2016.00090)
+[FULL TEXT](http://journal.frontiersin.org/article/10.3389/fnana.2016.00090)
 
 
 

@@ -4,10 +4,10 @@ title: IR40a neurons are not DEET detectors
 published: true
 author: Dahaniel
 comments: true
-date: 2016-08-08 05:02:40
+date: 2016-08-08 17:02:40
 tags: DEET, Ir40a, olfaction, mosquito, Drosophila, publications
 categories: research
-permalink: /2016/08/ir40a_nonDEET
+permalink: /2016/08/ir40a_DEET
 ---
 A few weeks ago, after more than a year in review, our latest work got published as a "Brief Communication Arising" in Nature. It is entitled "*IR40a neurons are not DEET detectors*" [[^1]] and reports the inability to reproduce experiments reported by Kain et al.'s in: "Odour receptors and neurons for DEET and new insect repellents" [[^Kain]]. Our publication is accompanied by the retraction of the original paper from Kain et al. [[^2]].
 

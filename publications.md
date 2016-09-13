@@ -13,6 +13,14 @@ permalink: /publications
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 ### 2016
+<div data-badge-type="donut" data-doi="10.3389/fnana.2016.00090" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+Zwaka, H., **Münch, D.**, Manz, G., Menzel, R., Rybak, J., 2016. *The circuitry of olfactory projection neurons in the brain of the honeybee, Apis mellifera*. Front. Neuroanat. 10, 90. doi:10.3389/fnana.2016.00090
+
+[FULL TEXT](http://dx.doi.org/10.3389/fnana.2016.00090)
+
+
+
 <div data-badge-type="donut" data-doi="10.1038/nature18321" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 Silbering, A.F., Bell, R., **Münch, D.**, Cruchet, S., Gomez-Diaz, C., Laudes, T., Galizia, C.G., Benton, R., 2016. *Ir40a neurons are not DEET detectors.* Nature 534, E5–E7. doi:10.1038/nature18321

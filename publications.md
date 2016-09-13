@@ -25,7 +25,7 @@ Zwaka, H., **Münch, D.**, Manz, G., Menzel, R., Rybak, J., 2016. *The circuitry
 
 Silbering, A.F., Bell, R., **Münch, D.**, Cruchet, S., Gomez-Diaz, C., Laudes, T., Galizia, C.G., Benton, R., 2016. *Ir40a neurons are not DEET detectors.* Nature 534, E5–E7. doi:10.1038/nature18321
 
-[FULL TEXT](http://dx.doi.org/10.1038/nature18321)
+[FULL TEXT](http://journal.frontiersin.org/article/10.3389/fnana.2016.00090)
 
 
 <div data-badge-type="donut" data-doi="10.1038/srep21841" data-hide-no-mentions="true" class="altmetric-embed"></div>

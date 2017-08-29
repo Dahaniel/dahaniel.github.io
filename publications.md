@@ -12,10 +12,18 @@ permalink: /publications
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+### 2017
+<div data-badge-type="donut" data-doi="10.1523/ENEURO.0070-17.2017" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+Paoli, M.\*, **Münch, D.**\*, Haase, A., Skoulakis, E., Turin, L., Galizia, C.G., 2017. *Minute Impurities Contribute Significantly to Olfactory Receptor Ligand Studies: tales from Testing the Vibration Theory.* eNeuro ENEURO.0070-17.2017. doi:10.1523/ENEURO.0070-17.2017 (\* equal contribution)
+
+[FULL TEXT](http://doi.org/10.1523/ENEURO.0070-17.2017)
+
+
 ### 2016
 <div data-badge-type="donut" data-doi="10.3389/fnana.2016.00090" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-Zwaka, H., **Münch, D.**, Manz, G., Menzel, R., Rybak, J., 2016. *The circuitry of olfactory projection neurons in the brain of the honeybee, Apis mellifera*. Front. Neuroanat. 10, 90. doi:10.3389/fnana.2016.00090
+Zwaka, H., **Münch, D.**, Manz, G., Menzel, R., Rybak, J., 2016. *The circuitry of olfactory projection neurons in the brain of the honeybee, Apis mellifera.* Front. Neuroanat. 10, 90. doi:10.3389/fnana.2016.00090
 
 [FULL TEXT](http://journal.frontiersin.org/article/10.3389/fnana.2016.00090)
 
@@ -38,7 +46,7 @@ Silbering, A.F., Bell, R., **Münch, D.**, Cruchet, S., Gomez-Diaz, C., Laudes, 
 
 <div data-badge-type="donut" data-doi="10.1038/srep03576" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-Strauch, M.\*, Lüdke, A.\*, **Münch, D.**\*, Laudes, T., Galizia, C.G., Martinelli, E., Lavra, L., Paolesse, R., Ulivieri, A., Catini, A., Capuano, R., Di Natale, C., 2014. *More than apples and oranges &#8211; Detecting cancer with a fruit fly’s antenna.* Scientific Reports 4. doi:10.1038/srep03576 (\* shared first authorship)
+Strauch, M.\*, Lüdke, A.\*, **Münch, D.**\*, Laudes, T., Galizia, C.G., Martinelli, E., Lavra, L., Paolesse, R., Ulivieri, A., Catini, A., Capuano, R., Di Natale, C., 2014. *More than apples and oranges &#8211; Detecting cancer with a fruit fly’s antenna.* Scientific Reports 4. doi:10.1038/srep03576 (\* equal contribution)
 
 [FULL TEXT](http://dx.doi.org/10.1038/srep03576) |
 [CITATIONS](http://scholar.google.de/scholar?cites=6668494534717916667) |

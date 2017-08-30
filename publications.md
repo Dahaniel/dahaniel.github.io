@@ -13,6 +13,13 @@ permalink: /publications
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 ### 2017
+<div data-badge-type="donut" data-doi="10.1007/s00359-017-1209-1" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+**Münch, D.**, Galizia, C.G., 2017. *Take time: odor coding capacity across sensory neurons increases over time in Drosophila.* J Comp Physiol A 1–14. doi:10.1007/s00359-017-1209-1
+
+[FULL TEXT](http://doi.org/10.1007/s00359-017-1209-1)
+
+
 <div data-badge-type="donut" data-doi="10.1523/ENEURO.0070-17.2017" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 Paoli, M.\*, **Münch, D.**\*, Haase, A., Skoulakis, E., Turin, L., Galizia, C.G., 2017. *Minute Impurities Contribute Significantly to Olfactory Receptor Ligand Studies: tales from Testing the Vibration Theory.* eNeuro ENEURO.0070-17.2017. doi:10.1523/ENEURO.0070-17.2017 (\* equal contribution)
@@ -40,7 +47,7 @@ Silbering, A.F., Bell, R., **Münch, D.**, Cruchet, S., Gomez-Diaz, C., Laudes, 
 
 **Münch, D.**, Galizia, C.G., 2016. *DoOR 2.0 - Comprehensive Mapping of Drosophila melanogaster Odorant Responses.* Scientific Reports 6, 21841. doi:10.1038/srep21841
 
-[FULL TEXT](http://dx.doi.org/10.1038/srep21841)
+[FULL TEXT](http://doi.org/10.1038/srep21841)
 
 ### 2014
 
@@ -57,7 +64,7 @@ Strauch, M.\*, Lüdke, A.\*, **Münch, D.**\*, Laudes, T., Galizia, C.G., Martin
 
 Strauch, M., Müthing, C., Broeg, M.P., Szyszka, P., **Münch, D.**, Laudes, T., Deussen, O., Galizia, C.G., Merhof, D., 2013. *The looks of an odour &#8211; Visualising neural odour response patterns in real time.* BMC Bioinformatics 14, S6. doi:10.1186/1471-2105-14-S19-S6
 
-[FULL TEXT](http://dx.doi.org/10.1186/1471/2105/14/S19/S6) |
+[FULL TEXT](http://doi.org/10.1186/1471/2105/14/S19/S6) |
 [CITATIONS](http://scholar.google.de/scholar?cites=1133526968462693019)
 
 
@@ -65,7 +72,7 @@ Strauch, M., Müthing, C., Broeg, M.P., Szyszka, P., **Münch, D.**, Laudes, T.,
 
 **Münch, D.**, Schmeichel, B., Silbering, A.F., Galizia, C.G., 2013. *Weaker Ligands Can Dominate an Odor Blend due to Syntopic Interactions.* Chemical senses. doi:10.1093/chemse/bjs138
 
-[FULL TEXT](http://dx.doi.org/10.1093/chemse/bjs138) |
+[FULL TEXT](http://doi.org/10.1093/chemse/bjs138) |
 [CITATIONS](http://scholar.google.de/scholar?cites=4064783826768313177)
 
 ### 2010

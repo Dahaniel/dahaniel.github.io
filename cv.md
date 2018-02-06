@@ -14,8 +14,11 @@ permalink: /cv
 
 ## Positions held
 
-#### 2014 - present
-: **PostDoc** - Lab of Giovanni Galizia, Universität Konstanz
+#### 2017 - present
+**PostDoc** - DFG Research Fellow in the [Ribeiro Lab](http://ribeirolab.org/), Champalimaud Centre of the Unknown, Lisbon, Portugal
+
+#### 2014 - 2017
+**PostDoc** - [Galizia Lab](http://neuro.uni-konstanz.de/), Universität Konstanz, Germany
 
 
 ## Education

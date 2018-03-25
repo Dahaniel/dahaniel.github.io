@@ -13,15 +13,19 @@ permalink: /cv
 [**PDF version**](/downloads/curriculum-vitae.pdf)
 
 ## Positions held
+#### 2017 - present
+**DFG Research Fellow** - Lab of Carlos Ribeiro, Champalimaud Centre for the Unknown, Lisbon, Portugal
 
-#### 2014 - present
-: **PostDoc** - Lab of Giovanni Galizia, Universität Konstanz
+
+
+#### 2014 - 2017
+**Post-Doc** - Lab of Giovanni Galizia, Universität Konstanz, Konstanz, Germany
 
 
 ## Education
 
 #### 2008 - 2014
-**PhD** in the lab of Prof. Giovanni Galizia, Universität Konstanz
+**PhD** in the lab of Prof. Giovanni Galizia, Universität Konstanz, Konstanz, Germany
 
 *Title: Odor representations in Drosophila receptor neurons analyzed by in vivo calcium imaging*
 
@@ -29,7 +33,7 @@ permalink: /cv
 #### 2007
 
 **Diploma** in the lab of Prof. Randolf Menzel
-Freie Universität Berlin
+Freie Universität Berlin, Berlin, Germany
 
 *Title: Intrazelluläre Färbungen und 3D Strukturanalyse von olfaktorischen Projektionsneuronen im Bienengehirn (Intracellular stainings and 3D analysis of olfactory projection neurons in the bee brain)*
 

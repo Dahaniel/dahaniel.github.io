@@ -7,7 +7,7 @@ comments: false
 date: 2014-11-05 11:11:24
 tags: [ ]
 categories: [ ]
-permalink: /research/
+permalink: /research
 ---
 ## The _Drosophila_ olfactome
 

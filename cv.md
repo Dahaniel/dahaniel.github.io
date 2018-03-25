@@ -14,12 +14,10 @@ permalink: /cv
 
 ## Positions held
 #### 2017 - present
-**DFG Research Fellow** - Lab of Carlos Ribeiro, Champalimaud Centre for the Unknown, Lisbon, Portugal
-
-
+**Post-Doc** - *DFG Research Fellow* in the [Ribeiro Lab](http://ribeirolab.org/), Champalimaud Centre of the Unknown, Lisbon, Portugal
 
 #### 2014 - 2017
-**Post-Doc** - Lab of Giovanni Galizia, Universität Konstanz, Konstanz, Germany
+**Post-Doc** - [Galizia Lab](http://neuro.uni-konstanz.de/), Universität Konstanz, Germany
 
 
 ## Education

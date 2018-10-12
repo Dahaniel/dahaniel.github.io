@@ -12,6 +12,14 @@ permalink: /publications
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+### 2018
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-018-06453-1" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+Sánchez-Alcañiz, J.A., Silbering, A.F., Croset, V., Zappia, G., Sivasubramaniam, A.K., Abuin, L., Sahai, S.Y., **Münch, D.**, Steck, K., Auer, T.O., Cruchet, S., Neagu-Maier, G.L., Sprecher, S.G., Ribeiro, C., Yapici, N., Benton, R., 2018. *An expression atlas of variant ionotropic glutamate receptors identifies a molecular basis of carbonation sensing.* Nat. Commun. 9, 4252. doi:10.1038/s41467-018-06453-1
+
+[FULL TEXT](http://doi.org/10.1038/s41467-018-06453-1)
+
+
 ### 2017
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s00359-017-1209-1" data-hide-no-mentions="true" class="altmetric-embed"></div>
 

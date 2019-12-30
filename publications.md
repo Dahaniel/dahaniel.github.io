@@ -12,6 +12,13 @@ permalink: /publications
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+### 2019
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.conb.2019.10.004" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+**Münch, D.**, Ezra-Nevo, G., Francisco, A.P., Tastekin, I., Ribeiro, C., 2020. *Nutrient homeostasis — translating internal states to behavior.* Current Opinion in Neurobiology, Neurobiology of Behavior 60, 67–75. doi:10.1016/j.conb.2019.10.004
+
+[FULL TEXT](https://doi.org/10.1016/j.conb.2019.10.004)
+
 ### 2018
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-018-06453-1" data-hide-no-mentions="true" class="altmetric-embed"></div>
 

@@ -2,7 +2,7 @@
 title: Daniel Münch
 description: 'Neuroscientist'
 url: 'http://muench.bio'
-baseurl: '/'
+baseurl: 'http://muench.bio/'
 google_analytics: 'UA-12714453-10'
 disqus_shortname: 'danielmuench'
 timezone: Europe/Berlin

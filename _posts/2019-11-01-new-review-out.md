@@ -11,4 +11,5 @@ permalink: /2019/11/review_homeostasis
 ---
 Happy to announce that our review on *Nutrient homeostasis — translating internal states to behavior* [[^1]] is out in Current Opinion in Neurobiology.
 
+##### References
 [^1]: Münch, D., Ezra-Nevo, G., Francisco, A.P., Tastekin, I., Ribeiro, C., 2020. Nutrient homeostasis — translating internal states to behavior. Current Opinion in Neurobiology, Neurobiology of Behavior 60, 67–75. [https://doi.org/10.1016/j.conb.2019.10.004](https://doi.org/10.1016/j.conb.2019.10.004)

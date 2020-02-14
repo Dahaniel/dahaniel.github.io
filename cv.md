@@ -38,31 +38,31 @@ Freie Universität Berlin, Berlin, Germany
 
 ## Oral Presentations
 Imaging pan-neuronal activity in 3D - Internal state dependent taste processing in the Drosophila brain.
-: 2019 | ESITO XVI - European Symposium for Insect Taste and Olfaction, Villasimius, Italy
+: 2019 - ESITO XVI - European Symposium for Insect Taste and Olfaction, Villasimius, Italy
 
 Imaging pan-neuronal activity in 3D - Internal state dependent taste processing in the Drosophila brain.
-: 2019 | EDRC - European Drosophila Research Conference, Lausanne, Switzerland
+: 2019 - EDRC - European Drosophila Research Conference, Lausanne, Switzerland
 
 Pan-neuronal imaging internal-state dependent taste processing in the Drosophila brain.
-: 2019 | University of Leipzig, Leipzig, Germany
+: 2019 - University of Leipzig, Leipzig, Germany
 
 Olfactory receptors use both time and combinatorial powerto encode odors.
-: 2016 | Departmental Seminar, University of Konstanz, Konstanz, Germany
+: 2016 - Departmental Seminar, University of Konstanz, Konstanz, Germany
 
 Das PAL-System als Duftorgel - Automatisierte Stimulusgabe in derInsekten Olfaktorik.
-: 2016 | PAL Anwendertreffen, Bad Dürkheim, Germany
+: 2016 - PAL Anwendertreffen, Bad Dürkheim, Germany
 
 Odor coding in the peripheral olfactory system of Drosophila.
-: 2016 | Champalimaud Neuroscience Programme, Lisbon, Portugal
+: 2016 - Champalimaud Neuroscience Programme, Lisbon, Portugal
 
 Olfactory signaling on the Drosophila antenna - Response profiles and individualresponse dynamics.
-: 2015 | ESITO XIV - European Symposium for Insect Taste and Olfaction, Villasimius, Italy
+: 2015 - ESITO XIV - European Symposium for Insect Taste and Olfaction, Villasimius, Italy
 
 Odor coding in Drosophila ORNs
-: 2014 Cold Spring Harbor Laboratory, NY, Turner Lab
+: 2014 - Cold Spring Harbor Laboratory, NY, Turner Lab
 
 Early mixture processing in Drosophila olfaction.
-: 2013 ESITO XIII - European Symposium for Insect Taste and OlfactionVillasimius, Italy
+: 2013 - ESITO XIII - European Symposium for Insect Taste and Olfaction, Villasimius, Italy
 
 ## Teaching experience
 

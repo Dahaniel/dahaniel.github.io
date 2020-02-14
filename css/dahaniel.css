@@ -17,3 +17,7 @@
   background-image: -webkit-linear-gradient(-410deg, rgba(255, 255, 255, 0.2) 00%, rgba(0, 0, 0, 0.9));
   background-image: linear-gradient(140deg,rgba(255, 255, 255, 0.2) 20%, rgba(0, 0, 0, 0.9)); 
 }
+
+dt { display: block; float: left; margin-top: 10px; font-style:italic; }
+dd {font-size:.8em;}
+dd { clear: both; }

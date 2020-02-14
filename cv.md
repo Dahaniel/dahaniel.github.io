@@ -10,7 +10,7 @@ categories: [ ]
 permalink: /cv
 ---
 
-[**PDF version**](downloads/CV_DanielMuench.pdf)
+[**PDF version**](http://muench.bio/downloads/CV_DanielMuench.pdf)
 
 ## Positions held
 #### 2017 - present

@@ -12,6 +12,13 @@ permalink: /publications
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+### 2020
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.neuron.2020.06.026" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+Baden, T., Maina, M.B., Chagas, A.M., Mohammed, Y.G., Auer, T.O., Silbering, A., Tobel, L. von, Pertin, M., Hartig, R., Aleksic, J., Akinrinade, I., Awadelkareem, M.A., Koumoundourou, A., Jones, A., Arieti, F., Beale, A., **Münch, D.**, Salek, S.C., Yusuf, S., Prieto-Godino, L.L., 2020. *TReND in Africa: Toward a Truly Global (Neuro)science Community.* Neuron. doi:10.1016/j.neuron.2020.06.026
+
+[FULL TEXT](https://doi.org/10.1016/j.neuron.2020.06.026)
+
 ### 2019
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.conb.2019.10.004" data-hide-no-mentions="true" class="altmetric-embed"></div>
 

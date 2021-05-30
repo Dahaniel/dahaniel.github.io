@@ -11,6 +11,13 @@ permalink: /publications
 ---
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+### 2021
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2021.05.27.445920" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+**Münch, D.**, Goldschmidt, D., Ribeiro, C., 2021. *Distinct internal states interact to shape food choice by modulating sensorimotor processing at global and local scales.* bioRxiv 2021.05.27.445920. https://doi.org/10.1101/2021.05.27.445920
+
+[FULL TEXT](https://doi.org/10.1101/2021.05.27.445920)
+
 
 ### 2020
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.neuron.2020.06.026" data-hide-no-mentions="true" class="altmetric-embed"></div>

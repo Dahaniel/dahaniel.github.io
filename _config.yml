@@ -1,8 +1,8 @@
 # Site settings
 title: Daniel Münch
 description: 'Neuroscientist'
-url: 'http://muench.bio'
-baseurl: 'http://muench.bio/'
+url: 'https://muench.bio'
+baseurl: 'https://muench.bio/'
 google_analytics: 'UA-12714453-10'
 disqus_shortname: 'danielmuench'
 timezone: Europe/Berlin

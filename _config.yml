@@ -15,8 +15,8 @@ author:
   github_username:  dahaniel
   linkedin_username:  danielmuench
   mastodon:
-    username: dahaniel
-    instance: scholar.social
+    mastodon_username: dahaniel
+    mastodon_instance: scholar.social
 
 defaults:
   -

@@ -132,4 +132,3 @@ Galizia, C.G., **Münch, D.**, Strauch, M., Nissler, A., Ma, S., 2010. *Integrat
 **Münch, D.**, Galizia, C.G., 2011. *DoOR: The Database of Odorant Responses.* Chemosense 13, 1–6.
 
 [FULL TEXT](http://www.chemosense.net/issues/11/ChemoSenseSept11.pdf)
-

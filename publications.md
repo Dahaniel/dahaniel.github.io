@@ -11,10 +11,26 @@ permalink: /publications
 ---
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+### 2022
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41586-022-04909-5" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+**Münch, D.**, Goldschmidt, D., Ribeiro, C., 2022. *The neuronal logic of how internal states control food choice.* Nature 1–9. doi:10.1038/s41586-022-04909-5
+
+[FULL TEXT](https://doi.org/10.1038/s41586-022-04909-5)
+
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2022.05.13.491877" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+Taisz, I., Donà, E., **Münch, D.**, Bailey, S.N., Morris, W.J., Meechan, K.I., Stevens, K.M., Varela, I., Gkantia, M., Schlegel, P., Ribeiro, C., Jefferis, G.S.X.E., Galili, D.S., 2022. *Generating parallel representations of position and identity in the olfactory system.* bioRxiv. doi:10.1101/2022.05.13.491877
+
+[FULL TEXT](https://doi.org/10.1101/2022.05.13.491877)
+
+
 ### 2021
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2021.05.27.445920" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-**Münch, D.**, Goldschmidt, D., Ribeiro, C., 2021. *Distinct internal states interact to shape food choice by modulating sensorimotor processing at global and local scales.* bioRxiv 2021.05.27.445920. https://doi.org/10.1101/2021.05.27.445920
+**Münch, D.**, Goldschmidt, D., Ribeiro, C., 2021. *Distinct internal states interact to shape food choice by modulating sensorimotor processing at global and local scales.* bioRxiv 2021.05.27.445920. doi:10.1101/2021.05.27.445920
 
 [FULL TEXT](https://doi.org/10.1101/2021.05.27.445920)
 
